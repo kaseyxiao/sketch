@@ -16,7 +16,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 >This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-  <video controls preload="auto"  style="display:block; margin: 0 auto;">
+  <video controls preload="auto"  style="center">
   <source src="docs/blob.mp4" type="video/mp4">
 </video>
 

@@ -23,7 +23,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Painting
 
 ## landscape
-  <video width="540" height="600" controls preload="auto">
+  <video width="800" height="600" controls preload="auto">
   <source src="docs/landscape.mp4" type="video/mp4">
 </video>
 
@@ -45,9 +45,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <!-- <iframe width="420" height="315" src="https://www.youtube.com/embed/F9Bo89m2f6g?autoplay=1"></iframe> -->
 
   
-  <video width="540" height="600" controls preload="auto">
+<!--   <video width="540" height="600" controls preload="auto">
   <source src="video2.mp4" type="video/mp4">
-</video>
+</video> -->
 
 
 <!-- ```js

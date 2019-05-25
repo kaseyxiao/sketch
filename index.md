@@ -17,14 +17,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 >This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
   <video width="540" height="600" controls preload="auto">
-  <source src="blob.mp4" type="video/mp4">
+  <source src="docs/blob.mp4" type="video/mp4">
 </video>
 
 # Painting
 
 ## landscape
   <video width="540" height="600" controls preload="auto">
-  <source src="landscape.mp4" type="video/mp4">
+  <source src="docs/landscape.mp4" type="video/mp4">
 </video>
 
 
@@ -32,12 +32,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Starry Night
   <video width="540" height="600" controls preload="auto">
-  <source src="StarryNight.mp4" type="video/mp4">
+  <source src="docs/StarryNight.mp4" type="video/mp4">
 </video>
 
 # Typography 
   <video width="540" height="600" controls preload="auto">
-  <source src="TextFadeIn.mp4" type="video/mp4">
+  <source src="docs/TextFadeIn.mp4" type="video/mp4">
 </video>
 
 > 

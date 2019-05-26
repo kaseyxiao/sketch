@@ -10,27 +10,16 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
-# [Cartoon](./cartoon.html)
+- [Cartoon](./cartoon.html)
 
-# Painting
+- Painting
 
-## landscape
-<video controls preload="auto">
-  <source src="docs/landscape.mp4" type="video/mp4">
-</video>
+  - [landscape](./landscape.html)
 
+  - [Starry Night](./starrynight.html)
 
+- [Typography](./typography.html)
 
-
-## Starry Night
-<video controls preload="auto">
-  <source src="docs/StarryNight.mp4" type="video/mp4">
-</video>
-
-# Typography 
-<video controls preload="auto">
-  <source src="docs/TextFadeIn.mp4" type="video/mp4">
-</video>
 
 > 
 

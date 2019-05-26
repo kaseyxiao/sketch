@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Cartoon
-description: This is just another page
+description: Interactive Animation Design with Processing
 ---
-
-## Welcome to another page
 
 # Cartoon
 

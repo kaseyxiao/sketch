@@ -3,9 +3,9 @@ layout: default
 ---
 
 # Interactive Animation Design with Processing
-This collection includes visual design showcases that use [Processing](https://processing.org/)(Java mode) to create visual, interactive animations for games and museum exhibition. 
+This collection includes visual design showcases that use [Processing](https://processing.org/) (Java mode) to create visual, interactive animations for games and museum exhibition. 
 
-The following works are in collaboration with the game design company[laputamega](www.laputamega.com). 
+The following works are in collaboration with the game design company [laputamega](www.laputamega.com). 
 
 
 - Cartoon

@@ -2,132 +2,27 @@
 layout: default
 ---
 
-<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Interactive Animation Design with Processing
+This collection includes visual design showcases that use [Processing](https://processing.org/)(Java mode) to create visual, interactive animations for games and museum exhibition. 
 
-[Link to another page](./another-page.html).
+The following works are in collaboration with the game design company[laputamega](www.laputamega.com). 
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
-
-- [Cartoon](./cartoon.html)
+- Cartoon
+>Animated cartoon design u[Box2D](https://box2d.org/) library; is geared to simulate motions in the physical world.
+  - [Blob](./blob.html)
 
 - Painting
+>Classic paintings could be reinterpreted with animations and interaction by particle systems techniques
 
   - [landscape](./landscape.html)
 
   - [Starry Night](./starrynight.html)
 
-- [Typography](./typography.html)
+- Typography
+>Text is a prominent component in the digital design. We use algorithms to create visual effects to render text.
+  - [Text Fade In & Out](./textfadein.html)
 
 
 > 
 
-<!-- <iframe width="420" height="315" src="https://www.youtube.com/embed/F9Bo89m2f6g?autoplay=1"></iframe> -->
-
-  
-<!--   <video width="540" height="600" controls preload="auto">
-  <source src="video2.mp4" type="video/mp4">
-</video> -->
-
-
-<!-- ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-``` -->
-
-<!-- #### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
- -->

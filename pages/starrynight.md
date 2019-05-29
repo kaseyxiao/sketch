@@ -3,7 +3,7 @@ layout: default
 title: Painting
 description: Interactive Animation Design with Processing
 ---
-##Flowing Starry Night
+## Flowing Starry Night
 <video controls preload="auto">
   <source src="../docs/StarryNight.mp4" type="video/mp4">
 </video>

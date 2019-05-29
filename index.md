@@ -6,10 +6,7 @@ layout: default
 This page collects my visual design showcases. I use [Processing](https://processing.org/) (Java mode) to create all the interactive animations presented here. These works are proof of concepts developed for [laputamega](https://www.laputamega.com), a Chinese game design company. 
 
 
-- Cartoon
-I developed this application to practice with the 2D pysics engine [Box2D](https://box2d.org/).
-In this exampThe user can interact with cartoon like figures which react moving like   
-
+- Cartoon 
 > Animated cartoon figures using [Box2D](https://box2d.org/), a 2D physics engine.  In the animation, the motion of figures is simulated as in the physical world. Figures interact with each other based on gravity, collision and forces applied by users.
   - [Mr Squishy](pages/blob.html): Squishy Blobs with big eyes can jump and squeeze each other (click to see the full video)
   <!-- ![Alt Text](docs/blob.gif) -->
@@ -25,5 +22,4 @@ In this exampThe user can interact with cartoon like figures which react moving 
   - [Text Fade In & Out](pages/textfadein.html)
 
 
-> 
 

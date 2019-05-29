@@ -8,17 +8,17 @@ This page collects my visual design showcases. I use [Processing](https://proces
 
 ## Cartoon 
 > The animated cartoon figures in this section are created with [Box2D](https://box2d.org/), a 2D physics engine.  In the animation the motion of the figures is simulated as in the physical world. Figures interact with each other based on gravity, collision and forces applied by users.
->  - [Mr Squishy](pages/blob.html#content): Squishy Blobs with big eyes can jump and squeeze each other (click to see the full video)
+>  - [Mr Squishy](pages/blob.html#content): Squishy Blobs with big eyes can jump and squeeze each other.
   <!-- ![Alt Text](docs/blob.gif) -->
 
 ## Painting
 > The designs below aim at adding movement into classic paintings with particle systems.
->  - [Misty Landscape](pages/landscape.html#content): Landscape that has dense misty flows of green and blue colors 
->  - [Flowing Starry Night](pages/starrynight.html#content): Starry Night with floating liquid sparkles flowing across the sky
+>  - [Misty Landscape](pages/landscape.html#content): Landscape that has dense misty flows of green and blue colors.
+>  - [Flowing Starry Night](pages/starrynight.html#content): Starry Night with floating liquid sparkles flowing across the sky.
 
 ## Typography
 > This section devotes to  demonstrate artistic visual effects for rendering text.
->  - [Text Fade In & Out](pages/textfadein.html#content):
+>  - [Text Fade In & Out](pages/textfadein.html#content)
 
 
 

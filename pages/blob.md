@@ -5,9 +5,8 @@ description: Interactive Animation Design with Processing
 ---
 
 
-## Blob
+## Mr Squishy
 
->squishy figure
 
 <video controls preload="auto"  >
   <source src="../docs/blob.mp4" type="video/mp4">

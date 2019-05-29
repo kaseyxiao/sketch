@@ -2,20 +2,21 @@
 layout: default
 ---
 
-# Interactive Animation Design with Processing
-This collection includes visual design showcases that use [Processing](https://processing.org/) (Java mode) to create visual, interactive animations for games and museum exhibition. 
-
-The following works are in collaboration with the game design company [laputamega](www.laputamega.com). 
+<!-- # Interactive Animation Design with Processing -->
+This collection shows my visual design showcases. I use [Processing](https://processing.org/) (Java mode) to create all the interactive animations in the showcases. These works are designed for the projects at [laputamega](www.laputamega.com), a Chinese game design company. 
 
 
 - Cartoon
->Animated cartoon design u[Box2D](https://box2d.org/) library; is geared to simulate motions in the physical world.
-  - [Blob](pages/blob.html)
+>We create animated cartoon figures with Processing and [Box2D](https://box2d.org/), a 2D physics engine.  In these animations, we simulates motions in the physical world such as gravity, collision and forces applied by users.
+  - [Mr Spring](pages/blob.html)(click to see the full video and descriptions)
+  ![Alt Text](docs/blob.gif)
 
 - Painting
->Classic paintings could be reinterpreted with animations and interaction by particle systems techniques
+>We attempt to render classic paintings with a flavor Classic paintings could be reinterpreted with animations and interaction by particle systems techniques
 
-  - [landscape](pages/landscape.html)
+  - [Chinese Landscape Painting](pages/landscape.html)
+
+  >the use of green and blue colors of Tang for creating of huge landscapes
 
   - [Starry Night](pages/starrynight.html)
 

@@ -14,7 +14,6 @@ This page collects my visual design showcases. I use [Processing](https://proces
 - Painting
 > Classic paintings interweaved with motion, powered by particle systems.
 >  - [Misty Landscape](pages/landscape.html) Landscape that has dense misty flows of green and blue colors 
-
 >  - [Flowing Starry Night](pages/starrynight.html) Starry Night with floating liquid sparkles flowing across the sky
 
 - Typography

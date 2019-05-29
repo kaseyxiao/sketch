@@ -3,25 +3,25 @@ layout: default
 ---
 
 <!-- # Interactive Animation Design with Processing -->
-This collection shows my visual design showcases. I use [Processing](https://processing.org/) (Java mode) to create all the interactive animations in the showcases. These works are designed for the projects at [laputamega](www.laputamega.com), a Chinese game design company. 
+This page collects my visual design showcases. I use [Processing](https://processing.org/) (Java mode) to create all the interactive animations presented here. These works are proof of concepts developed for [laputamega](https://www.laputamega.com), a Chinese game design company. 
 
 
 - Cartoon
->We create animated cartoon figures with Processing and [Box2D](https://box2d.org/), a 2D physics engine.  In these animations, we simulates motions in the physical world such as gravity, collision and forces applied by users.
-  - [Mr Spring](pages/blob.html)(click to see the full video and descriptions)
-  ![Alt Text](docs/blob.gif)
+I developed this application to practice with the 2D pysics engine [Box2D](https://box2d.org/).
+In this exampThe user can interact with cartoon like figures which react moving like   
+
+> Animated cartoon figures using [Box2D](https://box2d.org/), a 2D physics engine.  In the animation, the motion of figures is simulated as in the physical world. Figures interact with each other based on gravity, collision and forces applied by users.
+  - [Mr Squishy](pages/blob.html): Squishy Blobs with big eyes can jump and squeeze each other (click to see the full video)
+  <!-- ![Alt Text](docs/blob.gif) -->
 
 - Painting
->We attempt to render classic paintings with a flavor Classic paintings could be reinterpreted with animations and interaction by particle systems techniques
+> Classic paintings interweaved with motion, powered by particle systems.
+  - [Misty Landscape](pages/landscape.html) Landscape that has dense misty flows of green and blue colors 
 
-  - [Chinese Landscape Painting](pages/landscape.html)
-
-  >the use of green and blue colors of Tang for creating of huge landscapes
-
-  - [Starry Night](pages/starrynight.html)
+  - [Flowing Starry Night](pages/starrynight.html) Starry Night with floating liquid sparkles flowing across the sky
 
 - Typography
->Text is a prominent component in the digital design. We use algorithms to create visual effects to render text.
+> Rendering text with artistic visual effects.
   - [Text Fade In & Out](pages/textfadein.html)
 
 

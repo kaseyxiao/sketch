@@ -18,7 +18,7 @@ This page collects my visual design showcases. I use [Processing](https://proces
 
 ## Typography
 > This section devotes to  demonstrate artistic visual effects for rendering text.
->  - [Text Fade In & Out](pages/textfadein.html#content)
+>  - [Text Fade In & Out](pages/textfadein.html#content): Text with fade-in and fade-out effects.
 
 
 

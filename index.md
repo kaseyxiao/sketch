@@ -8,7 +8,7 @@ This page collects my visual design showcases. I use [Processing](https://proces
 
 ## Cartoon 
 > The animated cartoon figures in this section are created with [Box2D](https://box2d.org/), a 2D physics engine.  In the animation the motion of the figures is simulated as in the physical world. Figures interact with each other based on gravity, collision and forces applied by users.
->  - [Mr Squishy](pages/blob.html#content): Squishy Blobs with big eyes can jump and squeeze each other.
+>  - [Mr Squishy](pages/blob.html#content): Squishy blobs with big eyes can jump and squeeze each other.
   <!-- ![Alt Text](docs/blob.gif) -->
 
 ## Painting

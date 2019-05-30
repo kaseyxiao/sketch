@@ -13,7 +13,7 @@ This page collects my visual design showcases. I use [Processing](https://proces
 
 ## Painting
 > The designs below aim at adding movement into classic paintings with particle systems.
->  - [Misty Landscape](pages/landscape.html#content): "A Thousand Li of Rivers and Mountains", a masterpiece of traditional Chinese painting, integrated with dense misty flows of green and blue colors.
+>  - [Misty Landscape](pages/landscape.html#content): A section of "A Thousand Li of Rivers and Mountains", a masterpiece of traditional Chinese painting, integrated with dense misty flows of vibrant green and blue colors.
 >  - [Flowing Starry Night](pages/starrynight.html#content): Starry Night with floating liquid sparkles flowing across the sky.
 
 ## Typography

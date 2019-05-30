@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- # Interactive Animation Design with Processing -->
-This page collects my visual design showcases. I use [Processing](https://processing.org/) (Java mode) to create the interactive animations presented here. These works are proof of concepts developed for [laputamega](https://www.laputamega.com), a Chinese game design company. 
+This page collects my visual design showcases. I use [Processing](https://processing.org/) (Java mode) to create the interactive animations presented here. These works are proof of concepts developed for [laputamega](http://www.laputamega.com), a Chinese game design company. 
 
 
 ## Cartoon 

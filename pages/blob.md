@@ -9,6 +9,6 @@ description: Interactive Animation Design with Processing
 
 
 <video controls preload="auto"  >
-  <source src="../docs/blob.mp4" type="video/mp4">
+  <source src="../docs/blob-conv.mp4" type="video/mp4">
 </video>
 
